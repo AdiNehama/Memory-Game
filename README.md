@@ -1,7 +1,12 @@
 # Memory-Game
-Responsive Memory Game . Created by HTML, CSS and Javascript. 
-How to play- Step By Step
-Step 1 - Type your full name into the box. 
-Step 2 - Choose how much Pairs of cards would you like to play with, and start the game!
-Step 3 - You should find all the match pairs of cards, in the least time that you can. 
-Good Luck !
+
+## How to Play - Step By Step
+
+1. **Step 1** - Enter your full name into the designated input box.
+
+2. **Step 2** - Choose the number of card pairs you want to play with, and start the game.
+
+3. **Step 3** - Your goal is to find all the matching pairs of cards as quickly as possible.
+
+   - Best of luck! 🍀
+
